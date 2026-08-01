@@ -1,0 +1,6 @@
+{
+  "name": "K2WUG Platform",
+  "description": "Full-stack web platform for services, jobs, marketplace, wallet, authentication, and community management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
